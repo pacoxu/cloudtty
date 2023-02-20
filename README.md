@@ -1,6 +1,7 @@
 # A Kubernates Cloud Shell (Web Terminal) Operator
 
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/6301/badge)](https://bestpractices.coreinfrastructure.org/projects/6301)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpacoxu%2Fcloudtty.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpacoxu%2Fcloudtty?ref=badge_shield)
 
 English | [简体中文](https://github.com/cloudtty/cloudtty/blob/main/README_zh.md)
 
@@ -291,3 +292,7 @@ More will be coming Soon. Welcome to [open an issue](https://github.com/cloudtty
 
 Made with [contrib.rocks](https://contrib.rocks).
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpacoxu%2Fcloudtty.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpacoxu%2Fcloudtty?ref=badge_large)
